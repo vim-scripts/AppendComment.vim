@@ -1,0 +1,11 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=82
+
+One thing I liked in Emacs is the ability to insert comments
+at the end of line using <M-;>. 
+This script tries to achieve the same for Vim.
+If there's already a comment, it's aligned.
+
+Maybe, your language is supported. 
+If not, it's easy to add new ones.
+
+This script was inspired by Meikel Brandmeyers EnhCommentify.vim: vimscript#23
